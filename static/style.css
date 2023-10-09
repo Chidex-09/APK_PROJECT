@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+input{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+ 
+}
+label{
+    
+}
+body{
+    background-image: url(light.jpg);
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+button{
+background-color: orange;
+margin: 4px;
+border: none;
+border-radius: 5px 0px 5px 0px;
+size: 5px;
+padding: 10px;
+} 
+:hover button{
+    background-color: greenyellow;
+    transition: 1s;
+}
